@@ -1,7 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
-<!--
-**Bluniz/Bluniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Meu nome é Lucas Rosa, sou um desenvolvedor Front-End. Sou apaixonado pelo Desenvolvimento Web, jogos e um bom design. Estudo para me tornar cada vez melhor a cada dia, tenho como objetivo me tornar um grande desenvolvedor e também contribuir em projetos open-source.
 
