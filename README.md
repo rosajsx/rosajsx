@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gabriel-codes/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Silva-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrosa51/"/></a>
+<a href="https://www.linkedin.com/in/lucasrosa51/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Silva-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrosa51/"/></a>
 </p>
 
 
