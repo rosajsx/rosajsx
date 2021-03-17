@@ -10,7 +10,7 @@ I like solving problems a lot, I am always willing to face challenges
 
 ##### 💻 Coder Trainee at Solutis Tecnologies
 
-##### 🚀 Rocketseat Student
+##### 🚀 Rocketseat Student since 2021
 
 ##### 📚 I have knowledge in Javascript, html, Cssm ReactJS and Node
 
