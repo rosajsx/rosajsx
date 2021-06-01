@@ -8,7 +8,7 @@ I like solving problems a lot, I am always willing to face challenges
 
 ##### 🚩 From Santo Amaro, BA
 
-##### 💻 Coder Trainee at Solutis Tecnologies
+##### 💻 Junior Developer at Solutis Tecnologies
 
 ##### 🚀 Rocketseat Student since 2021
 
