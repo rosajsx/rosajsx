@@ -10,8 +10,6 @@ I like solving problems a lot, I am always willing to face challenges
 
 ##### 💻 Junior Developer at Solutis Tecnologies
 
-##### 🚀 Rocketseat Student since 2021
-
 ##### 📚 I have knowledge in Javascript, html, Cssm ReactJS and Node
 
 ##### 📘 I'm currently learning ReactJS and NextJS.
