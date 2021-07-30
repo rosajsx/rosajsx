@@ -8,7 +8,7 @@ I like solving problems a lot, I am always willing to face challenges
 
 ##### 🚩 From Santo Amaro, BA
 
-##### 💻 Junior Developer at Solutis Tecnologies
+##### 💻 Junior Developer at BRQ
 
 ##### 📚 I have knowledge in Javascript, html, Cssm ReactJS and Node
 
