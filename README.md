@@ -10,7 +10,7 @@ I like solving problems a lot, I am always willing to face challenges
 
 ##### 💻 Junior Developer at BRQ
 
-##### 📚 I have knowledge in Javascript, html, Cssm ReactJS and Node
+##### 📚 I have knowledge in Javascript, html, CSS, ReactJS, Node, NextJS
 
 ##### 📘 I'm currently learning ReactJS and NextJS.
 
