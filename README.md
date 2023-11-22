@@ -20,9 +20,9 @@ I like solving problems a lot, I am always willing to face challenges
 
 <table>
 <td >
-  <img  src="https://github-readme-stats.vercel.app/api?username=Bluniz&show_icons=true&theme=dracula"> 
+  <img  src="https://github-readme-stats.vercel.app/api?username=rosajsx&show_icons=true&theme=dracula"> 
 </td>
 <td >
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluniz&layout=compact&theme=dracula"> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosajsx&layout=compact&theme=dracula"> 
 </td>
 </table>
