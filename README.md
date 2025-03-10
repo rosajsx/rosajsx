@@ -8,11 +8,10 @@ I like solving problems a lot, I am always willing to face challenges
 
 ##### 🚩 From Santo Amaro, BA
 
-##### 💻 PL Frontend Developer at Bankly
+##### 💻 PL Frontend/Mobile Developer at Bankly
 
-##### 📚 I have knowledge in Javascript, html, CSS, ReactJS, Node, NextJS
+##### 📚 I have knowledge in Javascript, html, CSS, ReactJS, Node, NextJS, React Native, Swift
 
-##### 📘 I'm currently learning ReactJS and NextJS.
 
 <br/>
 
